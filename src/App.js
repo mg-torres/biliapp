@@ -22,7 +22,7 @@ function App() {
   <div className="container">
     <div className="content-wrapper">
       <div className="header">
-        <img src="logo_website.png" alt="Billi Logo" className="logo" height="200px" />
+        <img src="logo_website.png" alt="Billi Logo" className="logo" height="500px" />
       </div>
       <div className="content">
         <h1>Tú tomas la foto y nosotros hacemos el resto</h1>
