@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <>
+      
   <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Billi App</title>
@@ -67,7 +67,7 @@ function App() {
       <img src="mockup.png" alt="Phone Image" className="phone-image" />
     </div>
   </div>
-</>
+
 
     </div>
   );
