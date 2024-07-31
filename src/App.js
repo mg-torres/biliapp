@@ -45,7 +45,7 @@ function App() {
         </div>
         <div className="download-buttons">
           <a href="#" className="button google-play">
-            <img src="src/google-play-logo.png" alt="Google Play" />
+            <img src="google-play-logo.png" alt="Google Play" />
             <span>
               Disponible en
               <br />
@@ -53,7 +53,7 @@ function App() {
             </span>
           </a>
           <a href="#" className="button app-store">
-            <img src="src/apple-logo.png" alt="App Store" />
+            <img src="apple-logo.png" alt="App Store" />
             <span>
               Disponible en
               <br />
@@ -64,7 +64,7 @@ function App() {
       </div>
     </div>
     <div className="phone">
-      <img src="src/mockup.png" alt="Phone Image" className="phone-image" />
+      <img src="mockup.png" alt="Phone Image" className="phone-image" />
     </div>
   </div>
 
