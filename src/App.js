@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{height: '200px', overflow: 'scroll'}}>
       
   <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -22,7 +22,7 @@ function App() {
   <div className="container">
     <div className="content-wrapper">
       <div className="header">
-        <img src="logo_website.png" alt="Billi Logo" className="logo" />
+        <img src="logo_website.png" alt="Billi Logo" className="logo" height="50px" />
       </div>
       <div className="content">
         <h1>Tú tomas la foto y nosotros hacemos el resto</h1>
