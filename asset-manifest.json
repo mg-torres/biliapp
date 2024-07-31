@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/biliapp/static/css/main.d1816b21.css",
+    "main.css": "/biliapp/static/css/main.1284e19f.css",
     "main.js": "/biliapp/static/js/main.58b6d329.js",
     "static/js/453.cd72463b.chunk.js": "/biliapp/static/js/453.cd72463b.chunk.js",
     "static/media/logo.svg": "/biliapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/biliapp/index.html",
-    "main.d1816b21.css.map": "/biliapp/static/css/main.d1816b21.css.map",
+    "main.1284e19f.css.map": "/biliapp/static/css/main.1284e19f.css.map",
     "main.58b6d329.js.map": "/biliapp/static/js/main.58b6d329.js.map",
     "453.cd72463b.chunk.js.map": "/biliapp/static/js/453.cd72463b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1816b21.css",
+    "static/css/main.1284e19f.css",
     "static/js/main.58b6d329.js"
   ]
 }
