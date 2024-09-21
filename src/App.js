@@ -36,12 +36,11 @@ function App() {
             Sé una de las primeras personas en probar nuestra versión beta
           </h3>
           <div className="input-container">
-            <input
-              type="email"
-              placeholder="Regístrate regístrate regístrate regístrate"
-            />
-            <button>Sign up</button>
-          </div>
+          <form method="post" action="https://script.google.com/macros/s/AKfycbwURVAf8-WhRbKgh8z2F1m9eeq9KJwrInYSUkQ7v-vuAbhCFygfB15_euR0ny98ZkK8/exec" name="email-form">
+                        <input type="email" name="your-email" placeholder="Regístrate regístrate regístrate regístrate"></input>
+                        <button>Sign up</button>
+                    </form>
+                  </div>
         </div>
         <div className="download-buttons">
           <a href="#" className="button google-play">
